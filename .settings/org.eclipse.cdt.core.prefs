@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1047402545/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1047402545/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1047402545/PATH/value=/home/dgfiloso/TFG_dgf/NodeMCU/esp-open-sdk/xtensa-lx106-elf/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:/snap/bin\:/usr/local/gcc-arm/bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1047402545/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1047402545/appendContributed=true
